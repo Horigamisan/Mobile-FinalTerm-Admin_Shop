@@ -1,0 +1,47 @@
+// missing address
+
+module.exports = [
+	{
+		_id: '6368d4fcb9abc79162f2a491',
+		name: 'Nguyễn Văn A',
+		email: 'thanh14148@gmail.com',
+		tel: '0123456789',
+		birthDate: '2002-11-16',
+		password: '123',
+		gender: 'Nam',
+		role: 'seller',
+		status: 'active',
+	},
+	{
+		_id: '6369b9c37fd2185f32c96bfb',
+		name: 'Nguyễn Văn B',
+		email: 'thanh14149@gmail.com',
+		tel: '0123456782',
+		birthDate: '2002-11-16',
+		password: '123',
+		gender: 'Nam',
+		role: 'seller',
+		status: 'active',
+	},
+	{
+		_id: '63a1d1f4e46abb7217684a7d',
+		name: 'Admin',
+		email: 'admin@gmail.com',
+		tel: '0000000000',
+		birthDate: '2002-11-16',
+		password: '123',
+		gender: 'Nữ',
+		role: 'admin',
+		status: 'active',
+	},
+	{
+		_id: '63a1d1f4e46abb7217684a7e',
+		name: 'Nguyễn Hoài Thanh',
+		email: 'thanh14147@gmail.com',
+		tel: '0898228317',
+		birthDate: '2002-11-16',
+		password: '123',
+		gender: 'Nam',
+		status: 'active',
+	},
+];

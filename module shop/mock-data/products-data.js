@@ -1,0 +1,58 @@
+module.exports = [
+	{
+		_id: '63a1d1f5e46abb7217684a83',
+		name: 'cà phê',
+		shop: '638dd1d90acc01852c621100',
+		price: 20000,
+		images:
+			'https://firebasestorage.googleapis.com/v0/b/tdtu-market.appspot.com/o/products%2F4D2C0249-05B3-4289-9EDB-23449D769836.jpg?alt=media&token=64acaaf8-4ab8-4cf1-adca-c186f3b43b46',
+		sumOfRating: 14,
+		description: 'cà phê ngon lắm',
+		noOfRatings: 3,
+		isAvailable: true,
+		soldQuantity: 1,
+		category: 'drink',
+	},
+	{
+		_id: '63a1d1f5e46abb7217684a84',
+		name: 'latte',
+		shop: '638dd1d90acc01852c621100',
+		price: 20000,
+		images:
+			'https://firebasestorage.googleapis.com/v0/b/tdtu-market.appspot.com/o/products%2F4D2C0249-05B3-4289-9EDB-23449D769836.jpg?alt=media&token=64acaaf8-4ab8-4cf1-adca-c186f3b43b46',
+		sumOfRating: 14,
+		noOfRatings: 3,
+		description: 'latte ngon lắm',
+		isAvailable: true,
+		soldQuantity: 3,
+		category: 'drink',
+	},
+	{
+		_id: '63a1d1f5e46abb7217684a86',
+		name: 'cơm sườn',
+		shop: '638dd1d90acc01852c621101',
+		price: 20000,
+		images:
+			'https://firebasestorage.googleapis.com/v0/b/tdtu-market.appspot.com/o/products%2F4D2C0249-05B3-4289-9EDB-23449D769836.jpg?alt=media&token=64acaaf8-4ab8-4cf1-adca-c186f3b43b46',
+		sumOfRating: 14,
+		description: 'cơm sườn ngon lắm',
+		noOfRatings: 3,
+		isAvailable: true,
+		soldQuantity: 1,
+		category: 'food',
+	},
+	{
+		_id: '63a1dc28b4c912f9ffd8324c',
+		name: 'hủ tiếu',
+		shop: '638dd1d90acc01852c621101',
+		price: 20000,
+		description: 'hủ tiếu ngon lắm',
+		images:
+			'https://firebasestorage.googleapis.com/v0/b/tdtu-market.appspot.com/o/products%2F4D2C0249-05B3-4289-9EDB-23449D769836.jpg?alt=media&token=64acaaf8-4ab8-4cf1-adca-c186f3b43b46',
+		sumOfRating: 14,
+		noOfRatings: 3,
+		isAvailable: true,
+		soldQuantity: 3,
+		category: 'food',
+	},
+];
